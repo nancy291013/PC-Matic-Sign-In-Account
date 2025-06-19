@@ -5,7 +5,7 @@ How to Sign In PC MAtic Account?
 In a world where cybersecurity concerns continue to evolve, tools like PC Matic have become increasingly vital for everyday computer users. Whether you're a casual home user or someone managing devices across a small business, PC Matic offers proactive protection, performance optimization, and regular updates to keep your systems running smoothly. But before diving into the features, you’ll need to get past the first—and arguably most important—step: signing in to your PC Matic account.
 
 .. image:: https://msn-sign-in-account.readthedocs.io/en/latest/_images/click-sign-in.png
-   :alt: My Project Logo
+   :alt: pc matic sign in 
    :width: 400px
    :align: center
    :target: https://pcmaticpcaccount.com/
